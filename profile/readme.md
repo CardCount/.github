@@ -1,4 +1,4 @@
-![Banner Image](../5aab0701-9439-45ec-a710-2423a9799291.jpeg)
+![Banner Image](https://github.com/CardCount/.github/blob/main/5aab0701-9439-45ec-a710-2423a9799291.jpeg)
 
 # CARDCount
 
