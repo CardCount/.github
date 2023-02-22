@@ -1,2 +1,1 @@
-# .github
-Organization details
+# CARDCount
